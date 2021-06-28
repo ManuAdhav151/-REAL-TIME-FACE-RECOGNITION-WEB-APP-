@@ -1,0 +1,55 @@
+body{
+    font-family: 'Akaya Kanadaka', cursive;
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 5px 18px black;
+}
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px black;
+    color: black;
+}
+.heading_div_2{
+    font-size: 18px;
+    background-color: black;
+    font-weight: bold;
+    letter-spacing: 2px;
+    box-shadow: 5px 5px 18px grey;
+}
+.resulttag{
+    font-size: 20px;
+    box-shadow: 5px 5px 18px grey;
+    background-color: black;
+}
+#coppyrightfooter{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 17px;
+    color: white;
+    line-height: 2;
+}
+canvas{
+    box-shadow: 5px 5px 18px grey;
+    width: 300px;
+    height: 300px;
+    border: solid 5px black;
+    margin-top: 125px;
+}
+.develop {
+    width: 100%;
+    background-color: grey;
+    color: white;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    font-size: 20px;
+    line-height: 2;
+}
